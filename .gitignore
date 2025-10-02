@@ -1,0 +1,13 @@
+.vscode/
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+node_modules/
+venv/
+__pycache__/
+dist/
+build/
+.env
+.idea/
