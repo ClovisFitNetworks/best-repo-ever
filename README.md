@@ -4,4 +4,5 @@
 #nova tentativa
 #tentativa 3
 #tentativa de criar propositalmente um conflito
+#provocando um merge conflict
 
