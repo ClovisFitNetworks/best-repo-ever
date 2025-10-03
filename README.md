@@ -3,4 +3,5 @@
 #testando primeiros commits
 #nova tentativa
 #tentativa 3
+#tentativa de criar propositalmente um conflito
 
